@@ -23,7 +23,3 @@ Welcome to my homelab tracking site. Click a server below to see its specific ha
 * [Debian VM Host](https://username.github.io/server-2/) - High-performance virtualization
 * [Backup Target OMV](https://username.github.io/server-3/) - Offsite/Secondary rsync backup
 * [Network & Services](https://username.github.io/server-4/) - UniFi controller, DNS, and automation
-
-| Preview | Product Name | Component Specifications & Notes |
-| :---: | :--- | :--- |
-| ![Case](https://m.media-amazon.com/images/I/91UOdM9izhL._AC_SL1500_.jpg) | [Cooler Master MasterBox Q300L Micro-ATX Tower](https://a.co/d/06zHDARY){:target="_blank"} | Micro-ATX form factor case layout |

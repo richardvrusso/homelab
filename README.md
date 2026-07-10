@@ -16,7 +16,7 @@
     background-color: transparent;  /* Keeps it clean on the dark background */
 </style>
 
-# My Homelab Builds
+# My Builds
 Welcome to my homelab tracking site. Click a server below to see its specific hardware specs and role:
 
 * [Main Unraid NAS](https://username.github.io/server-1/) - Storage & Core Docker containers

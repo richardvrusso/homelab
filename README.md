@@ -6,6 +6,8 @@ Welcome to my homelab site. Click a server below to see its hardware specs:
 
 * [unRAID Storage Server](https://richardvrusso.github.io/storage/) - Mass storage for the homelab
 
+* [OMV Backup Server](https://richardvrusso.github.io/backup/) - Backup for the homelab
+
 * [Gaming Rig](https://richardvrusso.github.io/gaming/) - Gaming setup
 
 * [testbench](https://richardvrusso.github.io/testbench/) - What's on the testbench now...
